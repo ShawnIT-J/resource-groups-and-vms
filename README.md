@@ -30,7 +30,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 <h3>Step 2: Create a Resource Group</h3>
 
 - Go to the search bar at the top and search "resource group"
-- Select Create Resource Group
+- Select "Create Resource Group"
 - You will need to name the resource group and select the region 
 - Select "Review + Create" on the lower left
     - For this example, we will be using RgLab1 for the name and (US) East US for the region (Which ever region you are in the US is fine as well)
@@ -46,7 +46,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 <h3>Step 4: Create a Virtual Machine</h3>
      
 - Go to the search bar and search "virtual machine"
-- Select Create, then select Azure Virtual Machine
+- Select "Create", then select "Azure Virtual Machine"
 - You will need to select the same resource group, the same region, and create a name for the virtual machine
     - For thise example, we will name the virtual machine "vm1"
 
@@ -68,7 +68,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
     - For username, we will use "labuser"
     - Create your own password
     - Make sure to note what username and password you used
-* Click the box under licensing and finally click Review + Create (Note- it will take some time for the virtual machine to set up)
+* Click the box under licensing and finally click "Review + Create" (Note- it will take some time for the virtual machine to set up)
 
 
 
@@ -97,7 +97,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
      - Open and use Remote Desktop
      - Paste the public IP Address and select Connect 
      - Enter the username and password from step 4 (You will have to sign in as a differnet user to access the virtual machine)
-     - Select OK
+     - Select "Ok"
   
 
 
