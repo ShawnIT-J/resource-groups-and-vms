@@ -17,7 +17,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 
 Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
-- Select Start Free
+- Select "Get Started"
 - Follow the prompt to create the account 
      - You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then
 - Finish the prompt, click Go to Azure Portal, and you are ready to start with Azure!
@@ -32,7 +32,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Go to the search bar at the top and search "resource group"
 - Select Create Resource Group
 - You will need to name the resource group and select the region 
-- Select Review + Create on the lower left
+- Select "Review + Create" on the lower left
     - For this example, we will be using RgLab1 for the name and (US) East US for the region (Which ever region you are in the US is fine as well)
 
 
