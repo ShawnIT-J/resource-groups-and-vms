@@ -35,8 +35,11 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Review + Create on the lower left
     - For this example, we will be using RgLab1 for the name and (US) East US for the region (Which ever region you are in the US is fine as well)
 
-![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/cecd4f28-564c-43eb-a091-2e72f1644902)
-![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/a90cf9aa-d0b8-478e-a633-f7d7424263b8)
+
+![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/e685fdb8-f509-4372-a5fa-7093c28c7b01)
+
+![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/05b944a3-22b7-420b-837c-d3be7a255165)
+
 
 
 
@@ -47,7 +50,12 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - You will need to select the same resource group, the same region, and create a name for the virtual machine
     - For thise example, we will name the virtual machine "vm1"
 
-![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/c7426a66-bc8b-4cee-9f89-017e6bbb04c1)
+
+![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/b0f9f461-6aa1-4144-8204-138c65019f4f)
+
+![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/de90b71c-8d8d-453a-9fad-2512315de752)
+
+
 
 
 
@@ -60,7 +68,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
     - For username, we will use "labuser"
     - Create your own password
     - Make sure to note what username and password you used
-* Click the box under licensing and finally click Review + Create
+* Click the box under licensing and finally click Review + Create (Note- it will take some time for the virtual machine to set up)
 
 
 
@@ -77,27 +85,23 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
    - Select the virtual machine we created and the public IP address will be on the right-hand side of the screen
    - Copy the public IP address
 
-<p align="center">
-<img src="https://i.imgur.com/T4Oc2RX.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-* Mac Users 
-   - Download Microsoft Remote Desktop
-   - Open the application and click Add PC
-   - Paste the public IP address and select Add
-   - Double-click on the virtual machine and enter the username and password from step 4
-   - Select Continue
+![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/55de9972-f9c6-469a-8511-b33777c20fb3)
+
+![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/0f0a109f-17f8-4714-a6a0-4351f7934f95)
+
+
+
    
 * Windows Users
      - Open and use Remote Desktop
-     - Paste the public IP Address and select Connect
-     - Enter the username and password from step 4
+     - Paste the public IP Address and select Connect 
+     - Enter the username and password from step 4 (You will have to sign in as a differnet user to access the virtual machine)
      - Select OK
   
-     
-     
- <p align="center">
-<img src="https://i.imgur.com/14pPOdv.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Og3LKyd.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+
+
+![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/248bcd24-9a32-4a4e-a218-027a56b3b141)
 
 
 
@@ -105,8 +109,9 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 🎉Congratulations! You have created your first virtual machine within Azure!🎉
 
-<p align="center">
-<img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
+![image](https://github.com/ShawnIT-J/resource-groups-and-vms/assets/172000204/89132f3e-6537-41f8-8490-8b77b6eb7eaf)
+
+
 
 <h3>Tip</h3>
 
